@@ -3,3 +3,4 @@ line 2 master branch
 line 3 master branch
 line 4 master branch
 line 5 feature branch
+line 5 that doesn't change
